@@ -26,3 +26,5 @@ Phase diagrams
 
 For the interactive presentation please see: https://docs.google.com/presentation/d/11ONEEhlmJDh-zNN52t4pmbCBuWeYoKAhH4BmKnFB3JM/edit?usp=sharing 
 
+This project was fully done in R.
+
