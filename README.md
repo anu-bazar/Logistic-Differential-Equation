@@ -1,6 +1,7 @@
 # Logistic-Differential-Equation
 Can mathematical models dictate biological phenomenons?
-Done through the Modelling Course in Population and Evolutionary Biology at ELTE under the supervision of Dr. Viktor M. 
+Done through the Modelling Course in Population and Evolutionary Biology at ELTE under the supervision of Dr. Viktor M, I sought out to investigate if LDE is a dynamic/chaotic system within a deterministic one and if we could simulate a real-time population diversity through simulations in R in a torus-like plane. Did you know that during the initial makings of embedding randomness in computers, the very same logistic equation was used to simulate randomness?
+
 This course is based on the ETH Zurich course of the same name: Modelling Course in Population and Evolutionary Biology.
 https://tb.ethz.ch/education/learningmaterials/modelingcourse/level-1-modules/LDE.html
 
