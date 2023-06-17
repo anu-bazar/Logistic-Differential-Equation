@@ -12,11 +12,13 @@ In a external pagevery influential papercall_made in 1976 the Australian theoret
 General approach:
 The LDE can be coded in a few lines of R code. This function can then be used to study the dynamic behaviour as a function of the parameter r describing the population growth rate. The dynamical behaviour can be investigated by studying time courses, phase diagrams, and bifurcation diagrams.
 What can be learned?
+
 Concepts:
 Chaotic dynamics
 Periodic dynamics
 Bifurcations
 Definition of chaos
+
 Methods:
 Simulation of simple single-species difference equations
 Bifurcation diagrams
