@@ -16,7 +16,7 @@ What can be learned?
 Concepts:
 Chaotic dynamics
 Periodic dynamics
-Bifurcations
+Bifurcation
 Definition of chaos
 
 Methods:
