@@ -26,5 +26,7 @@ What can be learned?
 
 For the interactive presentation please see: [Presentation](https://docs.google.com/presentation/d/11ONEEhlmJDh-zNN52t4pmbCBuWeYoKAhH4BmKnFB3JM/edit?usp=sharing )
 
-This project was fully done in R.
+> [!NOTE]
+> This project was fully done in R.
+
 
